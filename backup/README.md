@@ -1,5 +1,5 @@
 # 🐳 Docker Backup Automation  
-**Author:** dev-project 
+**Author:** "dev-project"
 **Purpose:** Automatically back up Docker containers (excluding `tdarr`), restart NVIDIA/Docker safely, and transfer archives to a remote server — runs every **2 days**.
 
 ---
