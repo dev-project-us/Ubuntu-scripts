@@ -1,6 +1,6 @@
 # 🐋 Docker Installation Guide — Ubuntu 24.04 LTS  
 
-**Author:** Bobby  
+**Author:** dev-project  
 **Purpose:** Step-by-step guide to install and configure Docker Engine and Docker Compose on Ubuntu 24.04 LTS.
 
 ---
